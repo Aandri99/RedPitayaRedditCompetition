@@ -1,9 +1,9 @@
 # RedPitayaRedditCompetition
-This serves as an example for the Red Pitaya Reddit Competition Submission of Your Project
+##This serves as an example for the Red Pitaya Reddit Competition Submission of Your Project
 
 
-## Quick Description of Project
-# Red Pitaya Reaction Time Measurement Ganme
+# Quick Description of Project
+## Red Pitaya Reaction Time Measurement Game
 
 
 

@@ -7,7 +7,8 @@ This serves as an example for the Red Pitaya Reddit Competition Submission of Yo
 
 
 
-Materials used for project:
+## Materials used for project:
+
 1x	Small Demo Box  
 
 1x	Graverstvo Grilj plate 

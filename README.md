@@ -12,6 +12,7 @@
 1x	Small Demo Box  
 
 1x	Graverstvo Grilj plate 
+
 1x	Asus router
 
 1x	Screws, zip-ties, plastic mounting parts 
@@ -32,5 +33,12 @@
 1x	Red Pitaya 5V 2A Power Supply
 
 2x	Ethernet cables
+
+# Wiring and schematics information
+
+
+# Code explanation
+
+
 
 

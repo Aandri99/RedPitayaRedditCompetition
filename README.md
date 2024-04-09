@@ -2,8 +2,7 @@
 **This serves as an example for the Red Pitaya Reddit Competition Submission of Your Project**
 
 
-# Quick Description of Project
-## Red Pitaya Reaction Time Measurement Game
+# Red Pitaya Reaction Time Measurement Game
 
 
 
@@ -33,6 +32,7 @@
 1x	Red Pitaya 5V 2A Power Supply
 
 2x	Ethernet cables
+
 
 # Wiring and schematics information
 

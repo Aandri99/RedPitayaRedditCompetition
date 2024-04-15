@@ -46,29 +46,35 @@ Additional features include email and company data collection for a more persona
 
 The provided code script is a Python application for measuring and analyzing user reaction times. It's structured into several key parts:
 
-Library Imports and Initialization:
+**Library Imports and Initialization:**
 
 The script begins by importing necessary Python libraries for handling data, plotting, and interfacing with the Red Pitaya hardware.
 It initializes the Red Pitaya board and sets up various HTML and widget elements to manage the user interface.
-User Interface (UI) Components:
+
+**User Interface (UI) Components:**
 
 Multiple functions create HTML elements to display messages, buttons, and circles of different colors, which guide the user through the application.
 Widgets are used to display data dynamically, including reaction times, user inputs, and messages about the user's performance.
-Data Handling Functions:
+
+**Data Handling Functions:**
 
 These functions manage user data, including checking if data files exist, reading data, updating, and saving it. They ensure that user information and reaction times are stored and retrieved correctly.
-Timer Functions:
+
+**Timer Functions:**
 
 A set of functions and classes manage timing operations, crucial for measuring precise reaction times. They handle the timing of visual cues (red to green circles) and user reactions.
 Timers also manage timeouts and delays, ensuring users react within a given timeframe and controlling the flow of the application.
-Main Program Loop:
+
+**Main Program Loop:**
 
 The main loop of the program is where the application's states are managed. It switches between different states like waiting for a user to start, collecting user data, timing user reactions, and displaying results.
 The loop checks button presses, manages state transitions based on user actions, and updates the display accordingly.
-Display and Logging:
+
+**Display and Logging:**
 
 The application includes functionality to display leaderboards, individual reaction times, and statistical analysis.
 It logs new user data into a CSV file and recalculates statistics to reflect new entries.
+
 Overall, the script is a complex integration of hardware control, data management, and user interface elements, designed to create an engaging and interactive environment for measuring and analyzing reaction times.
 
 

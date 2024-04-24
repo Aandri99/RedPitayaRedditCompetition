@@ -49,7 +49,7 @@ Here we have an open portable case containing a Red Pitaya STEMlab 125-14 board,
 
 For connectivity, there's an ethernet cable which provides network access to the board, crucial for tasks that require internet connection or local network communication. The power supply is ensured by a dedicated cable, which is standard 5V 2A Red Pitaya Power supply
 
-![Boxcables](ButtonDemo/boxCables.jpg)
+![Boxcables](ButtonDemo/boxcables.jpg)
 
 
 The wiring between the Red Pitaya board and the click shield seems straightforward and neatly organized, minimizing the risk of loose connections or interference. The specific mention of the click shield pin INT on slot 2 indicates that this pin is configured to read the signal from the button, which is integral to the reaction game's functionality. This suggests that the setup is not only robust but also carefully planned to ensure reliable performance during demonstrations or interactive sessions.

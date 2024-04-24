@@ -8,7 +8,9 @@ This project involves a reaction time measurement application developed using Py
 
 The application's flow starts by inviting users to initiate the test, followed by a randomized waiting period marked by a red circle. Once the green circle appears, users must react by pressing a button, recording their reaction time. If users react prematurely (before the green circle), they're directed to a retry state. After each session, the reaction time is recorded, and the software updates a leaderboard reflecting top performers. Users can also switch between viewing their reaction time statistics and the leaderboard.
 
-Additional features include email and company data collection for a more personalized experience, and statistical analysis with histogram and Gaussian fit plotting to visualize overall performance distributions among participants. This setup is intended for interactive public or educational displays, emphasizing engagement and competition.
+Additional features include email and company data collection for a more personalized experience, and statistical analysis with histogram and Gaussian fit plotting to visualize overall performance distributions among participants. This setup is intended for interactive public or educational displays, emphasizing engagement and competition. The whole projects comes in a portable Demo box, which makes it very portable:
+
+![Box](ButtonDemo/box2.jpg)
 
 ## Materials used for project:
 
@@ -43,9 +45,12 @@ Additional features include email and company data collection for a more persona
 
 Here we have an open portable case containing a Red Pitaya STEMlab 125-14 board, known for its versatility in electronics and engineering applications. The board is equipped with a click shield which enables easy connection to various modules, such as the large red arcade button prominently featured in the setup. The button is designed to be user-friendly and is likely used to initiate the reaction time measurement game mentioned in the project description.
 
-![Box](ButtonDemo/box2.jpg)
+![Box](ButtonDemo/boxOpened.jpg)
 
 For connectivity, there's an ethernet cable which provides network access to the board, crucial for tasks that require internet connection or local network communication. The power supply is ensured by a dedicated cable, which is standard 5V 2A Red Pitaya Power supply
+
+![Box](ButtonDemo/boxCables.jpg)
+
 
 The wiring between the Red Pitaya board and the click shield seems straightforward and neatly organized, minimizing the risk of loose connections or interference. The specific mention of the click shield pin INT on slot 2 indicates that this pin is configured to read the signal from the button, which is integral to the reaction game's functionality. This suggests that the setup is not only robust but also carefully planned to ensure reliable performance during demonstrations or interactive sessions.
 

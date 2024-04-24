@@ -7,7 +7,7 @@
 This project involves a reaction time measurement application developed using Python in JupyterNotebook, targeting integration with the Red Pitaya board. The software is designed to assess user reaction times based on visual cues (colored circles) and button presses. Key components include a user interface for displaying instructions and results, threading for timekeeping, and data management features to maintain and display a leaderboard.
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="ButtonDemo/greenButton.png" alt="Green Button" style="width: 45%;">
+    <img src="ButtonDemo/greennButton.png" alt="Green Button" style="width: 45%;">
     <img src="ButtonDemo/redButton.png" alt="Red Button" style="width: 45%;">
 </div>
 

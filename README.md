@@ -38,7 +38,7 @@ Additional features include email and company data collection for a more persona
 2x	Ethernet cables
 
 
-#Pictures and Hardware description
+# Pictures and Hardware description
 
 
 # Code explanation

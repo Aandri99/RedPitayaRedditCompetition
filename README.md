@@ -43,7 +43,7 @@ Additional features include email and company data collection for a more persona
 
 Here we have an open portable case containing a Red Pitaya STEMlab 125-14 board, known for its versatility in electronics and engineering applications. The board is equipped with a click shield which enables easy connection to various modules, such as the large red arcade button prominently featured in the setup. The button is designed to be user-friendly and is likely used to initiate the reaction time measurement game mentioned in the project description.
 
-..image:: ButtonDemo/box2.jpg
+.. image:: ButtonDemo/box2.jpg
 
 For connectivity, there's an ethernet cable which provides network access to the board, crucial for tasks that require internet connection or local network communication. The power supply is ensured by a dedicated cable, which is standard 5V 2A Red Pitaya Power supply
 

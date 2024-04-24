@@ -8,7 +8,7 @@ This project involves a reaction time measurement application developed using Py
 
 <div style="display: flex; justify-content: space-around;">
     <img src="ButtonDemo/greenButton.png" alt="Green Button" style="width: 45%;">
-    <img src="ButtonDemo/redButton.png" alt="Red Button" style="width: 45%;">
+    <img src="ButtonDemo/RedButton.png" alt="Red Button" style="width: 45%;">
 </div>
 
 The application's flow starts by inviting users to initiate the test, followed by a randomized waiting period marked by a red circle. Once the green circle appears, users must react by pressing a button, recording their reaction time. If users react prematurely (before the green circle), they're directed to a retry state. After each session, the reaction time is recorded, and the software updates a leaderboard reflecting top performers. Users can also switch between viewing their reaction time statistics and the leaderboard.

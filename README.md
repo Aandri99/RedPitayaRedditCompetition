@@ -8,7 +8,7 @@ This project involves a reaction time measurement application developed using Py
 
 <div style="display: flex; justify-content: space-around;">
     <img src="ButtonDemo/greenButton.png" alt="Green Button" style="width: 45%;">
-    <img src="ButtonDemo/redButton.png" alt="Red Button" style="width: 40%;">
+    <img src="ButtonDemo/redButton.png" alt="Red Button" style="width: 44%;">
 </div>
 
 
